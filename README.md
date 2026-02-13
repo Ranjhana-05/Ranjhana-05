@@ -78,7 +78,7 @@
 
 [![Java Programming](https://img.shields.io/badge/Java%20Programming-Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](YOUR_CERTIFICATE_LINK)  
 [![SQL Certification](https://img.shields.io/badge/SQL-GreatLearning-%23007ACC?style=for-the-badge)](YOUR_CERTIFICATE_LINK)  
-[![Web Development](https://img.shields.io/badge/Full%20Stack-freeCodeCamp-%23F38020?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+[![WWeb Development](https://img.shields.io/badge/Full%20Stack-freeCodeCamp-%23F38020?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_CERTIFICATE_LINK)  
 
 
 ---
