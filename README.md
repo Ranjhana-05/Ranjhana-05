@@ -1,13 +1,11 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  Hi, I'm Ranjhana! 💻🚀
+<h1 align="center">
+  👋 Hi, I'm Ranjhana 💻🚀
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&width=500&lines=Software+Developer;Java+Backend+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=AAAAAA&width=600&lines=Software+Developer;Java+Backend+Developer;Full+Stack+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
----
 
 ## 🌍 About Me  
 
