@@ -9,7 +9,7 @@
 
 ## 🌍 About Me  
 
-💻 **Java Software Developer** | 🌐 **Full Stack Developer** | 🎨 **UI/UX Designer**  
+💻 **Java Backend Developer** | 🌐 **Full Stack Enthusiast** | 🎨 **UI/UX Designer**  
 
 🚀 Passionate about building **scalable backend systems** and dynamic web applications  
  
@@ -75,7 +75,7 @@
 |------------|---------------|
 | 🎓 **Student Management System** | A layered Core Java console application that manages student records using CRUD operations, service-layer validation, and file handling for data persistence. |
 | 🏦 **Banking Management Application** | A menu-driven banking application built using Core Java with deposit, withdrawal, and transaction validation features. |
-| 👵 **An Intelligent Elderly Assistance Framework for Companionship and Healthcare** | Built a full-stack React + Node.js web application with API-driven architecture. Integrated chatbot communication, health reminders, emergency alerts, and modular UI components. |
+| 👵 **An Intelligent Elderly Assistance Framework for Companionship and Healthcare** | Built an elderly assistance application with voice-based chatbot integration, automated health reminders, emergency alert systems, wellness modules, and a community platform to promote safety and emotional well-being.|
 
 ---
 
