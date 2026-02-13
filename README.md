@@ -49,11 +49,6 @@
 
 ---
 
-### ⚙ Backend & APIs  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-
----
 
 ### 🗄 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
