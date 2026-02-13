@@ -48,20 +48,19 @@
 ### 🌐 Frontend  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2300D8FF?style=for-the-badge&logo=react&logoColor=black)
+
 
 ---
 
 ### ⚙ Backend & APIs  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%230A66C2?style=for-the-badge)
+
 
 ---
 
 ### 🗄 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -77,9 +76,9 @@
 
 | 🚀 Project | 📝 Description |
 |------------|---------------|
-| 🎓 **Enterprise Student Management System** | Built a scalable Spring Boot backend with RESTful APIs and MySQL integration. Implemented layered architecture, CRUD operations, validation logic, and transactional consistency. |
-| 🏦 **Secure Banking Management Application** | Developed a transaction-driven banking system using Java & PostgreSQL. Implemented ACID-compliant transactions, exception handling, and modular backend design. |
-| 👵 **Intelligent Elderly Assistance Platform** | Built a full-stack React + Node.js web application with API-driven architecture. Integrated chatbot communication, health reminders, emergency alerts, and modular UI components. |
+| 🎓 **Student Management System** | A layered Core Java console application that manages student records using CRUD operations, service-layer validation, and file handling for data persistence. |
+| 🏦 **Banking Management Application** | A menu-driven banking application built using Core Java with deposit, withdrawal, and transaction validation features. |
+| 👵 **An Intelligent Elderly Assistance Framework for Companionship and Healthcare** | Built a full-stack React + Node.js web application with API-driven architecture. Integrated chatbot communication, health reminders, emergency alerts, and modular UI components. |
 
 ---
 
@@ -87,8 +86,8 @@
 
 [![Java Programming](https://img.shields.io/badge/Java%20Programming-Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](YOUR_CERTIFICATE_LINK)  
 [![SQL Certification](https://img.shields.io/badge/SQL-GreatLearning-%23007ACC?style=for-the-badge)](YOUR_CERTIFICATE_LINK)  
-[![Full Stack Web Development](https://img.shields.io/badge/Full%20Stack-freeCodeCamp-%23F38020?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_CERTIFICATE_LINK)  
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-Udemy-%23A435F0?style=for-the-badge)](YOUR_CERTIFICATE_LINK)  
+[![Web Development](https://img.shields.io/badge/Full%20Stack-freeCodeCamp-%23F38020?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_CERTIFICATE_LINK)  
+
 
 ---
 
