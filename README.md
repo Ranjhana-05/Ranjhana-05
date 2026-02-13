@@ -14,8 +14,7 @@
 💻 **Java Software Developer** | 🌐 **Full Stack Developer** | 🎨 **UI/UX Designer**  
 
 🚀 Passionate about building **scalable backend systems** and dynamic web applications  
-⚙ Skilled in **Spring Boot, REST APIs, React, Node.js, MySQL**  
-🎯 Strong foundation in **Java, HTML, CSS, JavaScript, and basic UI/UX design tools (Figma, Adobe Illustrator)**  
+ 
 💡 Love transforming ideas into functional, user-friendly digital solutions  
 
 ---
