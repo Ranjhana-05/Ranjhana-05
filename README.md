@@ -38,7 +38,6 @@
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
