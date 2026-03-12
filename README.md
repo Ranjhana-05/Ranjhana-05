@@ -73,14 +73,6 @@
 | 🏦 **Banking Management Application** | A menu-driven banking application built using Core Java with deposit, withdrawal, and transaction validation features. |
 | 👵 **An Intelligent Elderly Assistance Framework for Companionship and Healthcare** | Built an elderly assistance application with voice-based chatbot integration, automated health reminders, emergency alert systems, wellness modules, and a community platform to promote safety and emotional well-being.|
 
----
-
-## 🎓 Certifications  
-
-[![Java Programming](https://img.shields.io/badge/Java%20Programming-Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=white)](YOUR_CERTIFICATE_LINK)  
-[![SQL Certification](https://img.shields.io/badge/SQL-GreatLearning-%23007ACC?style=for-the-badge)](YOUR_CERTIFICATE_LINK)  
-[![Web Development](https://img.shields.io/badge/Web%20Development-freeCodeCamp-%23F38020?style=for-the-badge&logo=freecodecamp&logoColor=white)](YOUR_CERTIFICATE_LINK)  
-
 
 ---
 
